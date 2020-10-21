@@ -1,0 +1,6 @@
+C:\Users\callu\source\repos\CSLeaderSerializingTemplate\bin\CSLeaderSerializingTemplate.dll
+C:\Users\callu\source\repos\CSLeaderSerializingTemplate\bin\CSLeaderSerializingTemplate.pdb
+C:\Users\callu\source\repos\CSLeaderSerializingTemplate\obj\Debug\CSLeaderSerializingTemplate.csprojAssemblyReference.cache
+C:\Users\callu\source\repos\CSLeaderSerializingTemplate\obj\Debug\CSLeaderSerializingTemplate.csproj.CoreCompileInputs.cache
+C:\Users\callu\source\repos\CSLeaderSerializingTemplate\obj\Debug\CSLeaderSerializingTemplate.dll
+C:\Users\callu\source\repos\CSLeaderSerializingTemplate\obj\Debug\CSLeaderSerializingTemplate.pdb

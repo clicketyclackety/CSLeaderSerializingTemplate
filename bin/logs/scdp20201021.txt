@@ -1,0 +1,43 @@
+2020-10-21 10:04:03.748 -07:00 [INF] SCDP.SCDPPlugIn ~ ----------
+2020-10-21 10:04:03.814 -07:00 [INF] SCDP.SCDPPlugIn ~ SCDP Loaded into Rhino Successfully
+2020-10-21 10:04:10.623 -07:00 [DBG] SCDP.SCDPPlugIn ~ File is not an SCDP Project. Exiting.
+2020-10-21 10:05:03.840 -07:00 [INF] SCDP.SCDPPlugIn ~ ----------
+2020-10-21 10:05:03.894 -07:00 [INF] SCDP.SCDPPlugIn ~ SCDP Loaded into Rhino Successfully
+2020-10-21 10:05:07.197 -07:00 [DBG] SCDP.SCDPPlugIn ~ File is not an SCDP Project. Exiting.
+2020-10-21 10:05:09.984 -07:00 [INF] SCDP.SCDPPlugIn ~ ---
+2020-10-21 10:05:09.984 -07:00 [INF] SCDP.SCDPPlugIn ~ Document Read init
+2020-10-21 10:05:10.134 -07:00 [DBG] SCDP.SCDPPlugIn ~ Project with GUID "2414a60f-c607-43f5-8d5b-9331310b3059" Loaded successfully.
+2020-10-21 10:05:10.140 -07:00 [INF] SCDP.SCDPPlugIn ~ Document Read Finished
+2020-10-21 10:05:10.320 -07:00 [DBG] SCDP.SCDPPlugIn ~ Opened Document
+2020-10-21 10:05:10.320 -07:00 [INF] SCDP.SCDPPlugIn ~ Document Initiated init
+2020-10-21 10:05:13.359 -07:00 [DBG] SCDP.Runtime.Events.LoadDrawings ~ Loading Drawings
+2020-10-21 10:05:13.633 -07:00 [DBG] SCDP.Runtime.Events.UpdateDrawingsPanel ~ Updating Drawings panel
+2020-10-21 10:05:13.644 -07:00 [DBG] SCDP.Runtime.Events.SetupPipeline ~ Emptied old pipeline
+2020-10-21 10:05:13.810 -07:00 [INF] SCDP.Runtime.Events.SetupPipeline ~ Found 1 Potential SCDP Objects
+2020-10-21 10:05:13.940 -07:00 [INF] SCDP.Runtime.Events.SetupPipeline ~ Re-Rendered all SCDP Objects
+2020-10-21 10:05:17.177 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'SubDDisplayToggle' was run.
+2020-10-21 10:05:23.558 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'CSLeaderSerializingTemplateCommand' was run.
+2020-10-21 10:05:49.236 -07:00 [DBG] SCDP.SCDPPlugIn ~ Added current selection : "5c25b421-9972-4a1f-bc5c-c72fb394199e"
+2020-10-21 10:05:50.100 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'Delete' was run.
+2020-10-21 10:05:50.178 -07:00 [DBG] SCDP.SCDPPlugIn ~ Flag called for deleted object with Id 5c25b421-9972-4a1f-bc5c-c72fb394199e.
+2020-10-21 10:05:50.801 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'Zoom' was run.
+2020-10-21 10:05:59.223 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'Zoom' was run.
+2020-10-21 10:06:00.882 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'SelAll' was run.
+2020-10-21 10:06:05.059 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'SelAll' was run.
+2020-10-21 10:06:06.264 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'SelAll' was run.
+2020-10-21 10:06:12.644 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'CSLeaderSerializingTemplateCommand' was run.
+2020-10-21 10:06:15.937 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'Zoom' was run.
+2020-10-21 10:06:20.573 -07:00 [DBG] SCDP.SCDPPlugIn ~ Rhino Command: 'Zoom' was run.
+2020-10-21 10:06:21.427 -07:00 [DBG] SCDP.SCDPPlugIn ~ Deselected all objects
+2020-10-21 10:06:30.257 -07:00 [DBG] SCDP.SCDPPlugIn ~ Deselected all objects
+2020-10-21 10:06:41.491 -07:00 [DBG] SCDP.SCDPPlugIn ~ Deselected all objects
+2020-10-21 10:06:43.346 -07:00 [DBG] SCDP.SCDPPlugIn ~ Deselected all objects
+2020-10-21 10:06:52.644 -07:00 [DBG] SCDP.SCDPPlugIn ~ Deselected all objects
+2020-10-21 10:06:53.779 -07:00 [DBG] SCDP.SCDPPlugIn ~ Deselected all objects
+2020-10-21 10:06:58.317 -07:00 [DBG] SCDP.SCDPPlugIn ~ Deselected all objects
+2020-10-21 10:12:25.669 -07:00 [INF] SCDP.SCDPPlugIn ~ ----------
+2020-10-21 10:12:25.737 -07:00 [INF] SCDP.SCDPPlugIn ~ SCDP Loaded into Rhino Successfully
+2020-10-21 10:12:28.225 -07:00 [DBG] SCDP.SCDPPlugIn ~ File is not an SCDP Project. Exiting.
+2020-10-21 10:13:27.984 -07:00 [INF] SCDP.SCDPPlugIn ~ ----------
+2020-10-21 10:13:28.045 -07:00 [INF] SCDP.SCDPPlugIn ~ SCDP Loaded into Rhino Successfully
+2020-10-21 10:13:30.412 -07:00 [DBG] SCDP.SCDPPlugIn ~ File is not an SCDP Project. Exiting.
